@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+.segment-value{
+  display:none
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.Custom-class{
+background-color:#98FF00;
+font-size:20px
+}
+.btn{
+  background-color:'red'
+}
+.google-covert{
+
+    border: 1px solid #ccc;
+    box-shadow: -1px 2px 4px #ccc;
+    width: 100%;
+
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+ 
