@@ -15,6 +15,10 @@ my-app/
     index.html
     favicon.ico
   src/
+   /service 
+   /component
+   /container
+   
     App.css
     App.js
     App.test.js
